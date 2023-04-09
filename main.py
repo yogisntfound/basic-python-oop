@@ -1,4 +1,4 @@
-class Player
+class Player:
     def __init__(self, name, health=100, energy=100):
         self.name = name
         self.health = health
