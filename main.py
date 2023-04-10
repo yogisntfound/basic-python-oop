@@ -28,7 +28,7 @@ class Monster:
 
 player1 = Player(name="balmond")
 player2 = Player(name="gatot")
-dragon = Monster(name="draco", health=50)
+dragon = Monster(name="draco", health=500)
 scorpion = Monster(name="scurpy")
 
 player1.attack(target=dragon, damage=80)
