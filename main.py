@@ -27,7 +27,7 @@ class Monster:
         print(f"{self.name} health: {self.health}")
 
 player1 = Player(name="balmond")
-player2 = Player(name="gatot")
+player2 = Player(name="layla")
 dragon = Monster(name="draco", health=500)
 scorpion = Monster(name="scurpy")
 
